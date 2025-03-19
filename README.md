@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HARI SAI CHOWDARY
+- 👋 Hi, I’m @HARI SAI KUMAR NAIDU
 - 👀 I’m interested in  web development nd data science
 - 🌱 I’m currently learning BTECH
 - 💞️ I’m looking to collaborate on job
