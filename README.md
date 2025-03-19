@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @HARI SAI KUMAR 
 - 👀 I’m interested in  web development nd data science
-- 🌱 I’m currently learning BTECH
+- 🌱 I’m currently pursuing BTECH
 - 💞️ I’m looking to collaborate on job
 - 📫 How to reach me by my contacting gmail :- harisaikumar6@gmail.com
-- ⚡ Fun fact: i am  very good boy
 
 <!---
 chowdary1058/chowdary1058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
